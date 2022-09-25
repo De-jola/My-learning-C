@@ -1,6 +1,6 @@
 #include <unistd.h>
 /*
- * code that prints to standard error
+ * code that prints to standard error without using printf or puts
  */
 int main(void)
 {
